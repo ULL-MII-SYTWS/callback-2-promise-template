@@ -42,5 +42,3 @@ returns a function that returns the equivalent `Promise` object
 
 </html>
 ```
-
-See [https://javascript.info/promisify](https://javascript.info/promisify)
